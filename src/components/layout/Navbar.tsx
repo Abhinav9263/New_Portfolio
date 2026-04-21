@@ -39,9 +39,9 @@ const Navbar = () => {
           {/* Logo */}
           <Link to="/" className="flex items-center gap-2">
             <div className="w-10 h-10 rounded-lg bg-primary flex items-center justify-center">
-              <span className="text-primary-foreground font-bold text-lg">P</span>
+              <span className="text-primary-foreground font-bold text-lg">A</span>
             </div>
-            <span className="font-semibold text-foreground hidden sm:block">Portfolio</span>
+            <span className="font-semibold text-foreground hidden sm:block">Abhinav</span>
           </Link>
 
           {/* Desktop Navigation */}
