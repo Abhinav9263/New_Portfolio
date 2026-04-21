@@ -41,7 +41,7 @@ const Navbar = () => {
             <div className="w-10 h-10 rounded-lg bg-primary flex items-center justify-center">
               <span className="text-primary-foreground font-bold text-lg">A</span>
             </div>
-            <span className="font-semibold text-foreground hidden sm:block">Abhinav</span>
+            <span className="font-semibold text-foreground hidden sm:block">卂𝐛ђ𝐢Ň𝐚𝕍</span>
           </Link>
 
           {/* Desktop Navigation */}
