@@ -194,14 +194,14 @@ export const skillsData = {
 export const experienceData = [
   {
     type: 'leadership',
-    title: 'Managing Lead of Official AI & ML Club - PredAIction',
+    title: 'Manageing Lead of PredAIction - Official AI & ML Club',
     company: 'BIT Kolkata',
     duration: '2025 - Present',
     description: 'Leading the official AI & ML Club, organizing workshops, hackathons,research and competitions for students.',
   },
   {
     type: 'Freelance',
-    title: 'Freelance Developer, Graphics Designer & AI/ML Solutions',
+    title: 'Freelance Developer, Graphics Designer & AI/ML,IoT Solutions',
     company: 'Own Business',
     duration: '2022 - Present',
     description: 'Developed various software, graphics and AI/ML solutions for clients.',
@@ -263,7 +263,7 @@ export const certificationsData = [
     certificates: [
       { name: 'GenFusion AI Competition', issuer: 'Tech Fest BIT', year: '2025', link: '#', image: '/Certificates/Genfusion.png' },
       { name: 'Envision Software Competition', issuer: 'Tech Fest BIT', year: '2025', link: '#', image: '/Certificates/Envision.png' },
-      { name: 'Electronovation', issuer: 'Tech Fest BIT', year: '2024', link: '#', image: '/Certificates/Electronovation.png' },
+      { name: 'Electronovation', issuer: 'Tech Fest BIT', year: '2025', link: '#', image: '/Certificates/Electronovation.png' },
       { name: 'Build with India Hackathon', issuer: 'National Level', year: '2024', link: '#', image: '/Certificates/Build With India Hackthon Certifucate.jpeg' },
     ],
   },
@@ -278,9 +278,9 @@ export const certificationsData = [
   {
     category: 'Cloud & IoT',
     certificates: [
-      { name: 'AWS IoT Foundation', issuer: 'AWS', year: '2024', link: '#', image: '/Certificates/AWS_IoT_Foundation.jpg' },
-      { name: 'Handling AWS IoT', issuer: 'AWS', year: '2024', link: '#', image: '/Certificates/Handling_AWS_IoT.jpg' },
-      { name: 'Mastering AWS IoT Devices', issuer: 'AWS', year: '2024', link: '#', image: '/Certificates/Mastering_AWS_IoT_Devices.jpg' },
+      { name: 'AWS IoT Foundation', issuer: 'AWS', year: '2026', link: '#', image: '/Certificates/AWS_IoT_Foundation.jpg' },
+      { name: 'Handling AWS IoT', issuer: 'AWS', year: '2026', link: '#', image: '/Certificates/Handling_AWS_IoT.jpg' },
+      { name: 'Mastering AWS IoT Devices', issuer: 'AWS', year: '2026', link: '#', image: '/Certificates/Mastering_AWS_IoT_Devices.jpg' },
     ],
   },
   {
